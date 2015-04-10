@@ -15,8 +15,8 @@
 	Es muy sencillo, solamente debe descargar el ejemplo a su computadora y una vez descomprimido abrir el archivo <code>index.html</code>
 </p>
 <h2>
-    Próximamente...
+    Extra
 </h2>
 <p>
-	Estaré publicando el mismo ejemplo pero utilizando funcionalidades de <code>bootstrap</code> por si alguien ya utiliza este framework, verá que será muy fácil acoplarlo.
+	Este ejemplo utiliza un archivo css para darle la forma a la tabla y botones, pero si desea utilizarlo con <code>bootstrap</code> puede ver el ejemplo en: <a href='https://github.com/wanderlp/Pagineo-con-Angular-y-Bootstrap'>https://github.com/wanderlp/Pagineo-con-Angular-y-Bootstrap</a>
 </p>
