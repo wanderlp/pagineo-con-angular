@@ -18,4 +18,5 @@
     Próximamente...
 </h2>
 <p>
+	Estaré publicando el mismo ejemplo pero utilizando funcionalidades de <code>bootstrap</code> por si alguien ya utiliza este framework, verá que será muy fácil acoplarlo.
 </p>
