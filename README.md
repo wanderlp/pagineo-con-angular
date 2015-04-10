@@ -14,3 +14,8 @@
 <p>
 	Es muy sencillo, solamente debe descargar el ejemplo a su computadora y una vez descomprimido abrir el archivo <code>index.html</code>
 </p>
+<h2>
+    Próximamente...
+</h2>
+<p>
+</p>
