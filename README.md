@@ -12,7 +12,7 @@
 	Demostración en línea
 </h2>
 <p>
-	Puede verse en funcionamiento ingresando a este link <a href='http://codepen.io/wanderlp/pen/jEgWVd'>http://codepen.io/wanderlp/pen/jEgWVd</a>
+	Puede verse funcionando ingresando a este link <a href='http://codepen.io/wanderlp/pen/jEgWVd' target='_blank'>http://codepen.io/wanderlp/pen/jEgWVd</a>
 </p>
 <h2>
     Extra
