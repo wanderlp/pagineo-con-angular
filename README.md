@@ -9,10 +9,11 @@
 	También al hacer click sobre un elemento del grid se muestra un alert, esto puede servir para colocar aquí las opciones de modificar o eliminar por cada línea del grid.
 </p>
 <h2>
-    ¿Cómo ver la demostración?
+	Demostración
 </h2>
 <p>
-	Es muy sencillo, solamente debe descargar el ejemplo a su computadora y una vez descomprimido abrir el archivo <code>index.html</code>
+	<p data-height="679" data-theme-id="0" data-slug-hash="jEgWVd" data-default-tab="result" data-user="wanderlp" class='codepen'>See the Pen <a href='http://codepen.io/wanderlp/pen/jEgWVd/'>Pagineo con Angular</a> by Wanderson (<a href='http://codepen.io/wanderlp'>@wanderlp</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 </p>
 <h2>
     Extra
