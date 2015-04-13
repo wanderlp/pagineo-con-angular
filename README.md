@@ -9,11 +9,10 @@
 	También al hacer click sobre un elemento del grid se muestra un alert, esto puede servir para colocar aquí las opciones de modificar o eliminar por cada línea del grid.
 </p>
 <h2>
-	Demostración
+	Demostración en línea
 </h2>
 <p>
-	<iframe height='679' scrolling='no' src='//codepen.io/wanderlp/embed/jEgWVd/?height=679&theme-id=14078' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/wanderlp/pen/jEgWVd/'>Pagineo con Angular</a> by Wanderson (<a href='http://codepen.io/wanderlp'>@wanderlp</a>) on <a href='http://codepen.io'>CodePen</a>.
-</iframe>
+	Puede verse en funcionamiento ingresando a este link <a href='http://codepen.io/wanderlp/pen/jEgWVd'>http://codepen.io/wanderlp/pen/jEgWVd</a>
 </p>
 <h2>
     Extra
