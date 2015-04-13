@@ -12,8 +12,8 @@
 	Demostración
 </h2>
 <p>
-	<p data-height="679" data-theme-id="0" data-slug-hash="jEgWVd" data-default-tab="result" data-user="wanderlp" class='codepen'>See the Pen <a href='http://codepen.io/wanderlp/pen/jEgWVd/'>Pagineo con Angular</a> by Wanderson (<a href='http://codepen.io/wanderlp'>@wanderlp</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+	<iframe height='679' scrolling='no' src='//codepen.io/wanderlp/embed/jEgWVd/?height=679&theme-id=14078' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/wanderlp/pen/jEgWVd/'>Pagineo con Angular</a> by Wanderson (<a href='http://codepen.io/wanderlp'>@wanderlp</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
 </p>
 <h2>
     Extra
