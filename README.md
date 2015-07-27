@@ -4,7 +4,7 @@ Este es un pequeño ejemplo de como poder mostrar con Angular una tabla en forma
 También al hacer click sobre un elemento del grid se muestra un alert, esto puede servir para colocar aquí las opciones de modificar o eliminar por cada línea del grid.
 
 ##Vista Previa
-![Vista Previa](https://dl.dropboxusercontent.com/s/yjvj4k2attwma64/image01.PNG?dl=0)
+![Vista Previa](https://dl.dropboxusercontent.com/s/yjvj4k2attwma64/image01.PNG)
 
 ##Demostración en línea
 Para probar el código fuente en vivo puede hacerlo desde codepen http://codepen.io/wanderlp/full/jEgWVd/
